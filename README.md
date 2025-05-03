@@ -14,6 +14,8 @@ Install required libraries:
 
 ```bash
 pip install opencv-python numpy matplotlib notebook
+```
+
 
 ## 📚 Lab Tasks Covered
 
